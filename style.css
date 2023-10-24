@@ -1,0 +1,1641 @@
+.fashion-website {
+  position: relative;
+  width: 1728px;
+  height: 7395px;
+  background-color: #ffffff;
+}
+
+.fashion-website .overlap {
+  position: absolute;
+  width: 1728px;
+  height: 599px;
+  top: 6796px;
+  left: 0;
+  background-color: #aaaaaa;
+}
+
+.fashion-website .group {
+  position: absolute;
+  width: 493px;
+  height: 124px;
+  top: 105px;
+  left: 1066px;
+}
+
+.fashion-website .overlap-group {
+  position: absolute;
+  width: 487px;
+  height: 57px;
+  top: 67px;
+  left: 0;
+  border-radius: 3px;
+}
+
+.fashion-website .text-wrapper {
+  position: absolute;
+  top: 14px;
+  left: 28px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .rectangle {
+  position: absolute;
+  width: 487px;
+  height: 57px;
+  top: 0;
+  left: 0;
+  border-radius: 3px;
+  border: 2px solid;
+  border-color: #ffdbdb;
+}
+
+.fashion-website .div {
+  position: absolute;
+  width: 115px;
+  height: 57px;
+  top: 0;
+  left: 372px;
+  background-color: #ffdbdb;
+}
+
+.fashion-website .enviar {
+  position: absolute;
+  top: 14px;
+  left: 393px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #aaaaaa;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-3 {
+  position: absolute;
+  top: 184px;
+  left: 174px;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .facebook {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 238px;
+  left: 172px;
+}
+
+.fashion-website .group-2 {
+  position: absolute;
+  width: 119px;
+  height: 228px;
+  top: 105px;
+  left: 809px;
+}
+
+.fashion-website .sobre-n-s {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-4 {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-5 {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-6 {
+  position: absolute;
+  top: 198px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-7 {
+  position: absolute;
+  top: 486px;
+  left: 1262px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-8 {
+  position: absolute;
+  top: 486px;
+  left: 1361px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-9 {
+  position: absolute;
+  width: 88px;
+  top: 486px;
+  left: 1500px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-10 {
+  position: absolute;
+  top: 79px;
+  left: 174px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .line {
+  position: absolute;
+  width: 1051px;
+  height: 2px;
+  top: 500px;
+  left: 176px;
+}
+
+.fashion-website .twitter {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 240px;
+  left: 246px;
+}
+
+.fashion-website .instagram {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 238px;
+  left: 317px;
+}
+
+.fashion-website .text-wrapper-11 {
+  position: absolute;
+  top: 6009px;
+  left: 664px;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-group-wrapper {
+  position: absolute;
+  width: 440px;
+  height: 253px;
+  top: 6185px;
+  left: 647px;
+}
+
+.fashion-website .overlap-group-2 {
+  position: relative;
+  width: 434px;
+  height: 253px;
+  background-color: #ffdbdb;
+  border-radius: 3px;
+  box-shadow: 0px 7px 30px #0000000d;
+}
+
+.fashion-website .overlap-2 {
+  position: absolute;
+  width: 164px;
+  height: 91px;
+  top: 7px;
+  left: 16px;
+}
+
+.fashion-website .text-wrapper-12 {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  font-family: "Roboto Serif", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.fashion-website .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .p {
+  position: absolute;
+  width: 401px;
+  top: 128px;
+  left: 16px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #6f6f6f;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-wrapper {
+  position: absolute;
+  width: 440px;
+  height: 253px;
+  top: 6185px;
+  left: 176px;
+}
+
+.fashion-website .overlap-3 {
+  position: relative;
+  width: 434px;
+  height: 253px;
+  background-color: #fdf1f1;
+  border-radius: 3px;
+  box-shadow: 0px 7px 30px #0000000d;
+}
+
+.fashion-website .overlap-group-3 {
+  position: absolute;
+  width: 147px;
+  height: 91px;
+  top: 7px;
+  left: 19px;
+}
+
+.fashion-website .text-wrapper-14 {
+  position: absolute;
+  width: 390px;
+  top: 128px;
+  left: 19px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #6e6e6e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .div-wrapper {
+  position: absolute;
+  width: 440px;
+  height: 253px;
+  top: 6185px;
+  left: 1119px;
+}
+
+.fashion-website .overlap-group-4 {
+  position: absolute;
+  width: 147px;
+  height: 95px;
+  top: 7px;
+  left: 19px;
+}
+
+.fashion-website .text-wrapper-15 {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  font-family: "Roboto Serif", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.fashion-website .text-wrapper-16 {
+  position: absolute;
+  width: 395px;
+  top: 128px;
+  left: 19px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #6e6e6e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-4 {
+  position: absolute;
+  width: 233px;
+  height: 142px;
+  top: 6519px;
+  left: 748px;
+}
+
+.fashion-website .img {
+  position: absolute;
+  width: 142px;
+  height: 142px;
+  top: 0;
+  left: 91px;
+}
+
+.fashion-website .group-3 {
+  position: absolute;
+  width: 142px;
+  height: 142px;
+  top: 0;
+  left: 0;
+}
+
+.fashion-website .group-4 {
+  position: absolute;
+  width: 1377px;
+  height: 596px;
+  top: 3991px;
+  left: 176px;
+  background-color: #fdf1f1;
+  border-radius: 3px;
+}
+
+.fashion-website .overlap-5 {
+  position: absolute;
+  width: 522px;
+  height: 596px;
+  top: 0;
+  left: 41px;
+}
+
+.fashion-website .rectangle-2 {
+  position: absolute;
+  width: 190px;
+  height: 131px;
+  top: 404px;
+  left: 57px;
+  background-color: #ffdbdb;
+}
+
+.fashion-website .group-5 {
+  position: absolute;
+  width: 156px;
+  height: 110px;
+  top: 445px;
+  left: 0;
+}
+
+.fashion-website .excited-white-girl {
+  position: absolute;
+  width: 482px;
+  height: 596px;
+  top: 0;
+  left: 40px;
+}
+
+.fashion-website .group-6 {
+  position: absolute;
+  width: 593px;
+  height: 447px;
+  top: 75px;
+  left: 667px;
+}
+
+.fashion-website .text-wrapper-17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 700;
+  color: #aaaaaa;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-18 {
+  position: absolute;
+  width: 589px;
+  top: 81px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #aaaaaa;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 36.7px;
+}
+
+.fashion-website .group-7 {
+  position: absolute;
+  width: 104px;
+  height: 100px;
+  top: 232px;
+  left: 0;
+}
+
+.fashion-website .overlap-group-5 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 7px 30px #0000000d;
+}
+
+.fashion-website .text-wrapper-19 {
+  position: absolute;
+  top: 59px;
+  left: 29px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-20 {
+  position: absolute;
+  top: 16px;
+  left: 29px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ea9fa2;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-8 {
+  position: absolute;
+  width: 104px;
+  height: 100px;
+  top: 232px;
+  left: 135px;
+}
+
+.fashion-website .text-wrapper-21 {
+  position: absolute;
+  top: 17px;
+  left: 33px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ea9fa2;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-22 {
+  position: absolute;
+  top: 60px;
+  left: 26px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-9 {
+  position: absolute;
+  width: 104px;
+  height: 100px;
+  top: 232px;
+  left: 270px;
+}
+
+.fashion-website .text-wrapper-23 {
+  position: absolute;
+  top: 59px;
+  left: 35px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-10 {
+  position: absolute;
+  width: 237px;
+  height: 74px;
+  top: 373px;
+  left: 0;
+}
+
+.fashion-website .compre-agora-wrapper {
+  position: relative;
+  width: 235px;
+  height: 74px;
+  background-color: #ea9fa2;
+  border-radius: 3px;
+  box-shadow: 0px 7px 30px #0000000d;
+}
+
+.fashion-website .compre-agora {
+  position: absolute;
+  width: 162px;
+  top: 22px;
+  left: 39px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-24 {
+  position: absolute;
+  top: 1230px;
+  left: 688px;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-25 {
+  position: absolute;
+  top: 1351px;
+  left: 493px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #aaaaaa;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 16px 55px;
+  position: absolute;
+  top: 2236px;
+  left: 734px;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 2px solid;
+  border-color: #ea9fa2;
+}
+
+.fashion-website .group-11 {
+  position: relative;
+  width: 152.05px;
+  height: 33px;
+  margin-right: -2px;
+}
+
+.fashion-website .text-wrapper-26 {
+  position: absolute;
+  width: 111px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ea9fa2;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .line-2 {
+  position: absolute;
+  width: 40px;
+  height: 15px;
+  top: 9px;
+  left: 111px;
+}
+
+.fashion-website .group-12 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 2082px;
+  left: 280px;
+}
+
+.fashion-website .text-wrapper-27 {
+  left: 23px;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-28 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #373737;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-13 {
+  position: absolute;
+  width: 69px;
+  height: 33px;
+  top: 41px;
+  left: 162px;
+}
+
+.fashion-website .fi-ss-star {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 5px;
+  left: 43px;
+}
+
+.fashion-website .text-wrapper-29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #373737;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .line-3 {
+  position: absolute;
+  width: 1px;
+  height: 27px;
+  top: 44px;
+  left: 114px;
+  object-fit: cover;
+}
+
+.fashion-website .group-14 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 2082px;
+  left: 749px;
+}
+
+.fashion-website .text-wrapper-30 {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-15 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 2082px;
+  left: 1220px;
+}
+
+.fashion-website .text-wrapper-31 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-6 {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 1465px;
+  left: 176px;
+  background-color: #93b8a2;
+  border-radius: 3px;
+  background-image: url(./img/pexels-dima-valkov-6211621-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.fashion-website .overlap-7 {
+  position: absolute;
+  width: 431px;
+  height: 566px;
+  top: 1465px;
+  left: 649px;
+}
+
+.fashion-website .rectangle-3 {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 0;
+  left: 0;
+  background-color: #a9d4ba;
+  border-radius: 3px;
+}
+
+.fashion-website .pexels-dima-valkov {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 0;
+  left: 1px;
+  object-fit: cover;
+}
+
+.fashion-website .pexels-dima-valkov-wrapper {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 1465px;
+  left: 1123px;
+  background-color: #c9dbcf;
+  border-radius: 3px;
+  background-image: url(./img/mask-group-4.png);
+  background-size: 100% 100%;
+}
+
+.fashion-website .pexels-dima-valkov-2 {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.fashion-website .pexels-monstera-wrapper {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 3308px;
+  left: 1235px;
+  background-color: #ddebe2;
+  background-image: url(./img/mask-group-2.png);
+  background-size: 100% 100%;
+}
+
+.fashion-website .pexels-monstera {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 0;
+  left: 0;
+}
+
+.fashion-website .text-wrapper-32 {
+  position: absolute;
+  top: 2485px;
+  left: 710px;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .oferta {
+  position: absolute;
+  top: 2621px;
+  left: 512px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #aaaaaa;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .novidades {
+  position: absolute;
+  top: 2621px;
+  left: 1066px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #aaaaaa;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-8 {
+  position: absolute;
+  width: 322px;
+  height: 378px;
+  top: 2738px;
+  left: 176px;
+}
+
+.fashion-website .rectangle-4 {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.fashion-website .pexels-dima-valkov-3 {
+  position: absolute;
+  width: 322px;
+  height: 378px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.fashion-website .overlap-9 {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 3308px;
+  left: 176px;
+  background-color: #d9d9d9;
+  background-image: url(./img/pexels-dima-valkov-6211614-1.png);
+  background-size: 100% 100%;
+}
+
+.fashion-website .overlap-10 {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 3308px;
+  left: 529px;
+  background-color: #d9d9d9;
+  background-image: url(./img/pexels-dima-valkov-6402846-1.png);
+  background-size: 100% 100%;
+}
+
+.fashion-website .overlap-11 {
+  position: absolute;
+  width: 331px;
+  height: 378px;
+  top: 3308px;
+  left: 882px;
+}
+
+.fashion-website .pexels-dima-valkov-4 {
+  position: absolute;
+  width: 331px;
+  height: 378px;
+  top: 0;
+  left: 0;
+}
+
+.fashion-website .overlap-12 {
+  position: absolute;
+  width: 326px;
+  height: 386px;
+  top: 2738px;
+  left: 1231px;
+}
+
+.fashion-website .rectangle-5 {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 0;
+  left: 4px;
+  background-color: #d9d9d9;
+}
+
+.fashion-website .pexels-monstera-2 {
+  position: absolute;
+  width: 326px;
+  height: 386px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.fashion-website .group-16 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 3152px;
+  left: 220px;
+}
+
+.fashion-website .text-wrapper-33 {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-17 {
+  position: absolute;
+  width: 258px;
+  height: 74px;
+  top: 3722px;
+  left: 207px;
+}
+
+.fashion-website .text-wrapper-34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-35 {
+  left: 13px;
+  color: #373737;
+  position: absolute;
+  top: 41px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-18 {
+  position: absolute;
+  width: 69px;
+  height: 33px;
+  top: 41px;
+  left: 175px;
+}
+
+.fashion-website .line-4 {
+  position: absolute;
+  width: 1px;
+  height: 27px;
+  top: 44px;
+  left: 127px;
+  object-fit: cover;
+}
+
+.fashion-website .overlap-13 {
+  position: absolute;
+  width: 699px;
+  height: 500px;
+  top: 2726px;
+  left: 501px;
+}
+
+.fashion-website .overlap-14 {
+  position: absolute;
+  width: 699px;
+  height: 500px;
+  top: 0;
+  left: 0;
+}
+
+.fashion-website .group-19 {
+  position: absolute;
+  width: 288px;
+  height: 74px;
+  top: 426px;
+  left: 43px;
+}
+
+.fashion-website .text-wrapper-36 {
+  left: 28px;
+  color: #454545;
+  position: absolute;
+  top: 41px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-20 {
+  position: absolute;
+  width: 69px;
+  height: 33px;
+  top: 41px;
+  left: 190px;
+}
+
+.fashion-website .line-5 {
+  position: absolute;
+  width: 1px;
+  height: 27px;
+  top: 44px;
+  left: 142px;
+  object-fit: cover;
+}
+
+.fashion-website .rectangle-6 {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 12px;
+  left: 28px;
+  background-color: #eaebf0;
+}
+
+.fashion-website .pexels-heitor-verdi {
+  position: absolute;
+  width: 392px;
+  height: 473px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.fashion-website .frame-2 {
+  position: absolute;
+  width: 318px;
+  height: 378px;
+  top: 12px;
+  left: 381px;
+}
+
+.fashion-website .group-21 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 426px;
+  left: 425px;
+}
+
+.fashion-website .text-wrapper-37 {
+  left: 31px;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-22 {
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  top: 3722px;
+  left: 572px;
+}
+
+.fashion-website .text-wrapper-38 {
+  left: 1px;
+  color: #373737;
+  position: absolute;
+  top: 41px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-23 {
+  left: 163px;
+  position: absolute;
+  width: 69px;
+  height: 33px;
+  top: 41px;
+}
+
+.fashion-website .line-6 {
+  left: 115px;
+  position: absolute;
+  width: 1px;
+  height: 27px;
+  top: 44px;
+  object-fit: cover;
+}
+
+.fashion-website .group-24 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 3722px;
+  left: 926px;
+}
+
+.fashion-website .text-wrapper-39 {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-25 {
+  position: absolute;
+  width: 309px;
+  height: 74px;
+  top: 3152px;
+  left: 1241px;
+}
+
+.fashion-website .text-wrapper-40 {
+  left: 38px;
+  color: #373737;
+  position: absolute;
+  top: 41px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-26 {
+  left: 200px;
+  position: absolute;
+  width: 69px;
+  height: 33px;
+  top: 41px;
+}
+
+.fashion-website .line-7 {
+  left: 152px;
+  position: absolute;
+  width: 1px;
+  height: 27px;
+  top: 44px;
+  object-fit: cover;
+}
+
+.fashion-website .group-27 {
+  position: absolute;
+  width: 233px;
+  height: 74px;
+  top: 3722px;
+  left: 1279px;
+}
+
+.fashion-website .text-wrapper-41 {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-15 {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 5027px;
+  left: 1123px;
+  background-color: #d9d9d9;
+  border-radius: 3px;
+  background-image: url(./img/vknivfu-sdkvbjieurg-kjvn-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.fashion-website .text-wrapper-42 {
+  position: absolute;
+  top: 4804px;
+  left: 566px;
+  font-family: "Roboto Slab", Helvetica;
+  font-weight: 500;
+  color: #ffdbdb;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-43 {
+  position: absolute;
+  width: 774px;
+  top: 4921px;
+  left: 516px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #aaaaaa;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .overlap-16 {
+  position: absolute;
+  width: 434px;
+  height: 566px;
+  top: 5027px;
+  left: 176px;
+}
+
+.fashion-website .rectangle-7 {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 0;
+  left: 0;
+  background-color: #d3e2d6;
+  border-radius: 3px;
+}
+
+.fashion-website .elegant-woman-straw {
+  position: absolute;
+  width: 434px;
+  height: 566px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.fashion-website .overlap-17 {
+  position: absolute;
+  width: 430px;
+  height: 566px;
+  top: 5027px;
+  left: 649px;
+  background-color: #d9d9d9;
+  border-radius: 3px;
+  background-image: url(./img/pexels-dima-valkov-6211617-1.png);
+  background-size: 100% 100%;
+}
+
+.fashion-website .text-wrapper-44 {
+  position: absolute;
+  top: 5617px;
+  left: 804px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ea9fa2;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-45 {
+  position: absolute;
+  top: 5617px;
+  left: 345px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ea9fa2;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-46 {
+  position: absolute;
+  width: 420px;
+  top: 5667px;
+  left: 654px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.fashion-website .text-wrapper-47 {
+  position: absolute;
+  width: 420px;
+  top: 5667px;
+  left: 181px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.fashion-website .text-wrapper-48 {
+  position: absolute;
+  top: 5617px;
+  left: 1250px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ea9fa2;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-49 {
+  position: absolute;
+  width: 420px;
+  top: 5667px;
+  left: 1128px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #373737;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.fashion-website .landing-page {
+  position: absolute;
+  width: 1728px;
+  height: 1117px;
+  top: 0;
+  left: 0;
+  background-color: #aaaaaa;
+  overflow: hidden;
+}
+
+.fashion-website .login-wrapper {
+  position: absolute;
+  width: 142px;
+  height: 52px;
+  top: 54px;
+  left: 1411px;
+  background-image: url(./img/rectangle-25.svg);
+  background-size: 100% 100%;
+}
+
+.fashion-website .login {
+  position: absolute;
+  top: 10px;
+  left: 41px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #fdf1f1;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .shop-now {
+  position: absolute;
+  top: 62px;
+  left: 766px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #fdf1f1;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .quem-somos {
+  position: absolute;
+  top: 62px;
+  left: 1030px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #fdf1f1;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-28 {
+  position: absolute;
+  width: 653px;
+  height: 632px;
+  top: 256px;
+  left: 174px;
+}
+
+.fashion-website .text-wrapper-50 {
+  position: absolute;
+  width: 649px;
+  top: 0;
+  left: 0;
+  font-family: "Rufina", Helvetica;
+  font-weight: 700;
+  color: #ffdbdb;
+  font-size: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .text-wrapper-51 {
+  position: absolute;
+  width: 565px;
+  top: 345px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #fdf1f1;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 52.8px;
+}
+
+.fashion-website .group-29 {
+  position: absolute;
+  width: 260px;
+  height: 74px;
+  top: 558px;
+  left: 0;
+}
+
+.fashion-website .veja-agora-wrapper {
+  position: relative;
+  width: 258px;
+  height: 74px;
+  background-color: #ea9fa2;
+  border-radius: 3px;
+  box-shadow: 6px 33px 59px #0000004c;
+}
+
+.fashion-website .veja-agora {
+  position: absolute;
+  top: 22px;
+  left: 59px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #fdf1f1;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.fashion-website .group-30 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 64px;
+  left: 1322px;
+}
+
+.fashion-website .overlap-18 {
+  position: relative;
+  height: 32px;
+}
+
+.fashion-website .fi-rr-shopping-bag {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.fashion-website .ellipse {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 22px;
+  left: 22px;
+  background-color: #ffdbdb;
+  border-radius: 5px;
+  box-shadow: 1px 2px 9px #00000026;
+}
+
+.fashion-website .overlap-19 {
+  position: absolute;
+  width: 570px;
+  height: 717px;
+  top: 234px;
+  left: 983px;
+  background-image: url(./img/mask-group.png);
+  background-size: 100% 100%;
+}
+
+.fashion-website .group-31 {
+  position: absolute;
+  width: 119px;
+  height: 110px;
+  top: 524px;
+  left: 24px;
+}
+
+.fashion-website .group-32 {
+  position: absolute;
+  width: 119px;
+  height: 110px;
+  top: 48px;
+  left: 439px;
+}
+
+.fashion-website .pexels-heitor-verdi-2 {
+  position: absolute;
+  width: 317px;
+  height: 376px;
+  top: 5588px;
+  left: -945px;
+}
+
+.fashion-website .text-wrapper-52 {
+  position: absolute;
+  top: 62px;
+  left: 142px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #fdf1f1;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
