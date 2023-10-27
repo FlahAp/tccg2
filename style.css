@@ -1,9 +1,72 @@
+
 .fashion-website {
   position: relative;
   width: 1728px;
   height: 7395px;
   background-color: #ffffff;
 }
+
+
+.linkpreto a:link{
+  color:#000000;
+}
+.linkpreto a:visited{
+  color:#000000;
+}
+
+.linkpreto a:active{
+  color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.linkrosa a:link{
+  color:#EA9FA2;
+}
+.linkrosa a:visited{
+  color:#EA9FA2;
+}
+
+.linkrosa a:active{
+  color:#EA9FA2;
+}
+
+
+
+
+.linkbranco a:link{
+  color:#ffffff;
+}
+.linkbranco a:visited{
+  color:#ffffff;
+}
+.linkbranco a:active{
+  color:#ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .fashion-website .overlap {
   position: absolute;
@@ -31,6 +94,7 @@
   border-radius: 3px;
 }
 
+
 .fashion-website .text-wrapper {
   position: absolute;
   top: 14px;
@@ -42,6 +106,7 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
 
 .fashion-website .rectangle {
   position: absolute;
@@ -62,6 +127,7 @@
   left: 372px;
   background-color: #ffdbdb;
 }
+
 
 .fashion-website .enviar {
   position: absolute;
@@ -86,6 +152,7 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
 
 .fashion-website .text-wrapper-3 {
   position: absolute;
@@ -127,6 +194,7 @@
   line-height: normal;
 }
 
+
 .fashion-website .text-wrapper-4 {
   position: absolute;
   top: 102px;
@@ -150,6 +218,7 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
 
 .fashion-website .text-wrapper-6 {
   position: absolute;
@@ -175,6 +244,7 @@
   line-height: normal;
 }
 
+
 .fashion-website .text-wrapper-8 {
   position: absolute;
   top: 486px;
@@ -186,6 +256,7 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
 
 .fashion-website .text-wrapper-9 {
   position: absolute;
@@ -199,6 +270,7 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
 
 .fashion-website .text-wrapper-10 {
   position: absolute;
@@ -236,6 +308,7 @@
   left: 317px;
 }
 
+
 .fashion-website .text-wrapper-11 {
   position: absolute;
   top: 6009px;
@@ -255,6 +328,7 @@
   top: 6185px;
   left: 647px;
 }
+
 
 .fashion-website .overlap-group-2 {
   position: relative;
@@ -587,31 +661,40 @@
 .fashion-website .group-10 {
   position: absolute;
   width: 237px;
-  height: 74px;
+  top: 370px;
+  left: 100;
+/* 
   top: 373px;
-  left: 0;
+  left: 100;
+  */
 }
 
 .fashion-website .compre-agora-wrapper {
   position: relative;
   width: 235px;
-  height: 74px;
+  height: 80px;
   background-color: #ea9fa2;
   border-radius: 3px;
   box-shadow: 0px 7px 30px #0000000d;
+  
+/*
+  width: 235px;
+  height: 74px;
+*/
 }
 
 .fashion-website .compre-agora {
   position: absolute;
   width: 162px;
   top: 22px;
-  left: 39px;
+  left: 30px;
   font-family: "Poppins", Helvetica;
   font-weight: 500;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 19px;
   letter-spacing: 0;
   line-height: normal;
+  text-align: center;
 }
 
 .fashion-website .text-wrapper-24 {
@@ -1473,19 +1556,10 @@
   font-size: 20px;
   letter-spacing: 0;
   line-height: normal;
+
 }
 
-.fashion-website .shop-now {
-  position: absolute;
-  top: 62px;
-  left: 766px;
-  font-family: "Poppins", Helvetica;
-  font-weight: 500;
-  color: #fdf1f1;
-  font-size: 22px;
-  letter-spacing: 0;
-  line-height: normal;
-}
+
 
 .fashion-website .quem-somos {
   position: absolute;
